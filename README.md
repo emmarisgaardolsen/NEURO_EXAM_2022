@@ -10,5 +10,5 @@ This GitHub repository contains the code used by Emma Risgaard Olsen and Rikke U
 | ---------------------------------- | ------------------------------------------------------------------|
 | `EEG triggers`                        | List of EEG triggers        |
 | `Preprocessing_ERP.ipynb` | Preprocessing data and creating ERPs and plots|
-| `StatisticalAnalysis.ipynb` | Statistical analysis of EEG data         |
-                                  |'ExperimentScript.py' | PsychoPy script used for running the experiment in the lab |
+| `StatisticalAnalysis.ipynb` | Statistical analysis of EEG data      |
+|`ExperimentScript.py` | PsychoPy script used for running the experiment in the lab |
