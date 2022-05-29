@@ -11,3 +11,6 @@ This GitHub repository contains the code used by Emma Risgaard Olsen and Rikke U
 | `Preprocessing_ERP.ipynb` | Preprocessing data and creating ERPs and plots|
 | `StatisticalAnalysis.ipynb` | Statistical analysis of EEG data      |
 |`ExperimentScript.py` | PsychoPy script used for running the experiment in the lab |
+|`Figures` | Folder including figures and plots |
+|`Group3` | Folder including EEG raw data, trigger list, and log file|
+|`fif_files` | Folder including fif-files with evoked data|
